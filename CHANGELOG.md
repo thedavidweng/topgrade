@@ -7,6 +7,18 @@ and this project adheres to [Semantic Versioning](https://semver.org/spec/v2.0.0
 
 ## [Unreleased]
 
+## [17.15.0](https://github.com/topgrade-rs/topgrade/compare/v17.14.1...v17.15.0) - 2026-10-26
+
+### Added
+- *(step)* add LucidLink ([#2460](https://github.com/topgrade-rs/topgrade/pull/2460))
+- *(step)* add Tailscale ([#2459](https://github.com/topgrade-rs/topgrade/pull/2459))
+
+### Fixed
+- *(vscode)* support new version format for vscode-insiders ([#2455](https://github.com/topgrade-rs/topgrade/pull/2455))
+
+### Other
+- Revert "fix(opencode): check for plugin updates before updating" ([#2448](https://github.com/topgrade-rs/topgrade/pull/2448))
+
 ## [17.14.1](https://github.com/topgrade-rs/topgrade/compare/v17.14.0...v17.14.1) - 2026-10-20
 
 ### Security
